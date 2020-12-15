@@ -24,6 +24,13 @@ As aulas serão ministradas de forma assíncrona e disponibilizadas online por l
 
 A pontuação total será dividida em três partes, e serão aplicadas em formas de trabalhos práticos de análise, apresentação e interpretação de dados pessoais e/ou fornecidos. Semanalmente será enviado um estudo dirigido sobre a matéria da semana corrente, que deverá ser entregue na aula seguinte, salvo casos excepcionais. 
 
+### Métodos de análise
+
+A interpretação dos dados de ensaios mecânicos serão realizadas expositivamente utilizando notebooks da linguagem Python para execução de um pacote que está sendo criado para esta disciplina. O objetivo deste pacote é padronizar as análises de todos os alunos e facilitar demonstrações. Um template para a análise de dados será fornecido para os alunos, de forma que não serão necessárias mais que noções básicas de programação para execução do programa. O uso desta ferramenta não é obrigatório, então aqueles que estiverem familiarizados com outras formas de fazer o trabalho podem utilizá-las.
+
+As análises de parâmetros microestruturais serão realizadas utilizando o software livre ImageJ na forma da distribuição chamada Fiji. Este programa possui interface gráfica de fácil utilização e será apresentado em forma de vídeo aula para conhecimento de todos. Noções básicas de processamento de imagens vão ser passadas, bem como referências externas. Usaremos para determinação de tamanho de grão, proporção de fases e parâmetros que possam ser determinados de forma similar. 
+
+
 ### Links para consulta
 
 * Portal de periódicos da CAPES - Acesso via CAFe
