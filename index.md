@@ -22,7 +22,7 @@ As aulas serão ministradas de forma assíncrona e disponibilizadas online por l
 
 ### Avaliações
 
-A pontuação total será dividida em três partes, e serão aplicadas em formas de trabalhos práticos de análise, apresentação e interpretação de dados pessoais e/ou fornecidos. Semanalmente será enviado um estudo dirigido sobre a matéria da semana corrente, que deverá ser entregue na aula seguinte, salvo casos excepcionais. 
+A pontuação total será dividida em três partes, e serão aplicadas em formas de trabalhos práticos de análise, apresentação e interpretação de dados da própria pesquisa e/ou fornecidos. Semanalmente será enviado um estudo dirigido sobre a matéria da semana corrente, que deverá ser entregue na aula seguinte, salvo casos excepcionais. 
 
 ### Métodos de análise
 
@@ -34,22 +34,29 @@ As análises de parâmetros microestruturais serão realizadas utilizando o soft
 ### Links para consulta
 
 * Portal de periódicos da CAPES - Acesso via CAFe
-[Periódicos CAPES](https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/?option=com_plogin&ym=3&pds_handle=&calling_system=primo&institute=CAPES&targetUrl=http://www-periodicos-capes-gov-br.ez1.periodicos.capes.gov.br&Itemid=155&pagina=CAFe)
 
-Utilizando este link será possível acessar de forma ilimitada todo o conteúdo disponível no portal de periódicos mesmo fora da universidade. 
+    [Periódicos CAPES](https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/?option=com_plogin&ym=3&pds_handle=&calling_system=primo&institute=CAPES&targetUrl=http://www-periodicos-capes-gov-br.ez1.periodicos.capes.gov.br&Itemid=155&pagina=CAFe)
+
+    Utilizando este link será possível acessar de forma ilimitada todo o conteúdo disponível no portal de periódicos mesmo fora da universidade. 
 
 * Phase transformation & complex properties research group
 
-[Grupo de pesquisa - Prof. Bhadeshia - University of Cambridge](https://www.phase-trans.msm.cam.ac.uk/)
+    [Grupo de pesquisa - Prof. Bhadeshia - University of Cambridge](https://www.phase-trans.msm.cam.ac.uk/)
 
-Materiais sobre transformações de fase nos aços e outras ligas, propriedades mecânicas e assunstos similares.
+    Materiais sobre transformações de fase nos aços e outras ligas, propriedades mecânicas e assunstos similares.
 
 * Bases de dados de estruturas cristalinas
 
-[Base de estruturas cristalinas](bdec.dotlib.com.br)
+    [Base de estruturas cristalinas](bdec.dotlib.com.br)
 
-Base de dados para consulta de padrões de estruturas cristalinas. O acesso pode ser feito mediante cadastro utilizando e-mail da UFMG.
+    Base de dados para consulta de padrões de estruturas cristalinas. O acesso pode ser feito mediante cadastro utilizando e-mail da UFMG.
 
 * Treinamento teórico e simulação de uso de técnicas de microscopia
 
-[MyScope - Microscopy Training](https://myscope.training/#)
+    [MyScope - Microscopy Training](https://myscope.training/#)
+
+* Fiji 
+
+    [Fiji - ImageJ](https://imagej.net/Fiji)
+
+    Acesso ao download e documentação do programa ImageJ.
