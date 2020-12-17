@@ -20,6 +20,10 @@ As aulas serão ministradas de forma assíncrona e disponibilizadas online por l
 1. Microestrutura de ferros fundidos
 1. Microestrutura de aços e ferros fundidos: Aula síncrona de recapitulação - Microsoft Teams
 
+### Leituras
+
+[Introdução](docs/aula1.md)
+
 ### Avaliações
 
 A pontuação total será dividida em três partes, e serão aplicadas em formas de trabalhos práticos de análise, apresentação e interpretação de dados da própria pesquisa e/ou fornecidos. Semanalmente será enviado um estudo dirigido sobre a matéria da semana corrente, que deverá ser entregue na aula seguinte, salvo casos excepcionais. 
