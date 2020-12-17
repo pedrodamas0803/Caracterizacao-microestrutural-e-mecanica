@@ -1,7 +1,6 @@
 ---
 title: Introdução - Conceitos básicos
 author: Pedro Damas Resende
-date: Dezembro/2020
 ---
 
 # Aula 1 - Introdução
