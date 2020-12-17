@@ -22,7 +22,7 @@ As aulas serão ministradas de forma assíncrona e disponibilizadas online por l
 
 ### Leituras
 
-[Introdução](docs/aula1.md)
+[Introdução](aula1.md)
 
 ### Avaliações
 
