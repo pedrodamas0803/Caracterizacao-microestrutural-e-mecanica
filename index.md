@@ -4,7 +4,7 @@
 
 Esta disciplina é ofertada na Universidade Federal de Minas Gerais, pelo Departamento de Engenharia Metalúrgica e de Materiais da Escola de Engenharia para o curso de graduação em Engenharia Metalúrgica como optativa e para os alunos do Programa de Pós-Graduação em Engenharia Metalúrgica, Materiais e de Minas.
 
-As aulas serão ministradas de forma assíncrona e disponibilizadas online por link privado enviado pela plataforma Moodle que pode ser acessada através do portal minhaUFMG. Teremos aulas para solução de dúvidas
+As aulas serão ministradas de forma assíncrona e disponibilizadas online por link privado enviado pela plataforma Moodle que pode ser acessada através do portal minhaUFMG. Teremos aulas para solução de dúvidas.
 
 ### Conteúdo da disciplina
 
@@ -24,9 +24,19 @@ As aulas serão ministradas de forma assíncrona e disponibilizadas online por l
 
 [Introdução](docs/aula1.md)
 
+[Ensaio de tração](docs/aula2.md)
+
 ### Avaliações
 
-A pontuação total será dividida em três partes, e serão aplicadas em formas de trabalhos práticos de análise, apresentação e interpretação de dados da própria pesquisa e/ou fornecidos. Semanalmente será enviado um estudo dirigido sobre a matéria da semana corrente, que deverá ser entregue na aula seguinte, salvo casos excepcionais. 
+A pontuação total será dividida em três partes, e serão aplicadas em formas de trabalhos práticos de análise, apresentação e interpretação de dados da própria pesquisa e/ou fornecidos. Semanalmente será enviado um estudo dirigido sobre a matéria da semana corrente, que deverá ser entregue na data combinada, salvo casos excepcionais. 
+
+#### Determinação das propriedades mecânicas 1ª avaliação
+
+[Aço ASTM 1016](https://github.com/pedrodamas0803/AV1_C3M/blob/main/av1_astm1016.ipynb)
+
+[Aço ASTM 1055](https://github.com/pedrodamas0803/AV1_C3M/blob/main/av1_astm1055.ipynb)
+
+[Aço 2205](https://github.com/pedrodamas0803/AV1_C3M/blob/main/av1_inox2205.ipynb)
 
 ### Métodos de análise
 
